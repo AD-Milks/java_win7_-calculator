@@ -1,6 +1,6 @@
 # Java 初学计算器
 
-<a href="https://github.com/AD-Milks/java_win7_-calculator.git/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AD-Milks/java_win7_-calculator.git?label=github%20forks&style=social"></a> <a href="https://gitee.com/ad-milks/java_win7_-calculator.git"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AD-Milks/java_win7_-calculator.git?label=gitee%20forks&logo=gitee&logoColor=red&style=social"> </a>
+<a href="https://github.com/AD-Milks/java_win7_-calculator"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AD-Milks/java_win7_-calculator.git?label=github%20forks&style=social"></a> <a href="https://gitee.com/ad-milks/java_win7_-calculator.git"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AD-Milks/java_win7_-calculator.git?label=gitee%20forks&logo=gitee&logoColor=red&style=social"> </a>
 
 ##### 介绍
 
